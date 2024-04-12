@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoostvandeVorst
 - 👀 I’m interested in C/C++, Python and HTML/CSS/JAVA
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C, following the CS50x course.
 
 <!---
 JoostvandeVorst/JoostvandeVorst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
